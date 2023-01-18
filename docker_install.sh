@@ -27,4 +27,4 @@ sudo apt-get update
 
 # Install Docker Engine, containerd, and Docker Compose. 
 
-sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin
+sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin -y
